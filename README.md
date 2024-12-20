@@ -1,13 +1,15 @@
-👋 Hi, I’m @emihleChallotteBooi
-👀 I’m fascinated by machine learning, as I've always been intrigued by what will distinguish humans from AI in the near future.
-🌱 I’m currently learning Computer Science at Wits University (Second Year) and how to enjoy life to the fullest!
-💞️ I’m looking to collaborate on exciting tech projects and coding challenges.
-📫 How to reach me: 
-my contacts : 0656931087
-my IG handle: @emihlebooi01
-email       : bemihle9@gmail.com
+👋 Hi, I’m Challotte
 
-😄 Pronouns: She/Her
+I’m fascinated by machine learning. I'm very much intrigued by what will distinguish humans from AI in the near future.
+
+this is my Third year of advancing technological expertise in the field of Computer Science at Wits University
+💞️ I’m looking to collaborate on exciting tech projects and coding challenges.
+
+How to reach me: 
+email       : bemihle9@gmail.com
+linkedin    : Emihle Booi
+IG          : emihlebooi01
+
 ⚡ Fun fact: I love exploring new ways to balance coding with living life to the max
 
 <!---
